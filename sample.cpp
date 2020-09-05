@@ -12,6 +12,10 @@ int rod_cutting(vector<int>& length, vector<int>& price, int size, int N)
 	
 	///MADE SOME CHANGES
 
+	///MADE MORE CHANGES
+
+	//MAKING CHANGES AGAIN
+
 
 	int t[100][100]; //t[size+1][N+1]
 
