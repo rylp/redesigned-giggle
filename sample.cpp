@@ -20,6 +20,8 @@ int rod_cutting(vector<int>& length, vector<int>& price, int size, int N)
 
 	//5th chnage
 
+	//6th change
+
 
 	int t[100][100]; //t[size+1][N+1]
 
